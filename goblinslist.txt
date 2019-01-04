@@ -3,3 +3,9 @@ Goblins
 1 Goblin
 2 Goblins
 multiply
+
+Mana power
+-------------
+Mountain
+Mountain
+Mountain
