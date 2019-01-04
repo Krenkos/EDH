@@ -3,6 +3,7 @@ Goblins
 1 Goblin
 2 Goblins
 multiply
+Kikijiki boom!
 
 Mana power
 -------------
